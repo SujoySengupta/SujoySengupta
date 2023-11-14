@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SujoySengupta
 - 👀 I’m interested in Computer Programming 
 - 🌱 I’m currently learning C
-- 📫 How to reach me ...
+- 📫 Mail: sujoysengupta313@gmail.com
 
 <!---
 SujoySengupta/SujoySengupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
