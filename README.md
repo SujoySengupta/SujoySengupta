@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SujoySengupta
 - 👀 I’m interested in Computer Programming 
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C and Python 
 - 📫 Mail: sujoysengupta313@gmail.com
 
 <!---
